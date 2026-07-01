@@ -53,11 +53,11 @@ dsa-practice-kotlin/
 
 | Topic | Solved | Difficulty spread |
 |---|---|---|
-| Arrays | 0 | - |
+| Arrays | 1 | - |
 | Linked Lists | 0 | - |
 | Trees | 0 | - |
 | Graphs | 0 | - |
-| HashMaps | 0 | - |
+| HashMaps | 1 | - |
 | Sorting | 0 | - |
 | Dynamic Programming | 0 | - |
 

@@ -8,4 +8,6 @@ O(1) space complexity
 
 ## Additional Notes
 What if the interviewer asks that each of the elements in the array can be repeated at most twice? How would you solve it?
-Will solve next
+
+Solution: 
+Just change the comparison to 2 step back instead of 1 as maximum allowed repetition is 2.
